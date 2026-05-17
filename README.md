@@ -17,3 +17,15 @@
 
 - 視点切り替え： キーボードの [A] / [D] キー
 - オブジェクトとのインタラクション（調べる）：マウスの左クリック
+
+<h3>ゲームクリアガイド (Game clearing guide)</h3>
+
+- 日本語　※AI翻訳による誤訳や曖昧な表現を防ぐため、確認用として異なるAIで生成した2つのバージョンを用意した
+
+　　[ゲームクリアガイド_1](https://github.com/ZJWCY/SECRET-DISCO/blob/main/%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%AF%E3%83%AA%E3%82%A2%E3%82%AC%E3%82%A4%E3%83%89_1.png)
+
+　　[ゲームクリアガイド_2](https://github.com/ZJWCY/SECRET-DISCO/blob/main/%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%AF%E3%83%AA%E3%82%A2%E3%82%AC%E3%82%A4%E3%83%89_2.png)
+
+- [English](https://github.com/ZJWCY/SECRET-DISCO/blob/main/game%20clearing%20guide.png)
+
+- [简体中文](https://github.com/ZJWCY/SECRET-DISCO/blob/main/%E6%B8%B8%E6%88%8F%E9%80%9A%E5%85%B3%E6%8C%87%E5%8D%97.png)
